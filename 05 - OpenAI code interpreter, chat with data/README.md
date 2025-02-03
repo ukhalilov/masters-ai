@@ -68,8 +68,13 @@ Here are some tips for driving on hills and mountain roads from your vehicle's o
 .
 Following these guidelines will help ensure safe and controlled driving on hills and mountainous terrain.
 
+### Screenshot #1
 ![Screenshot of the second prompt](images/second-answer-part-1.png)
+
+### Screenshot #2
 ![Screenshot of the second prompt](images/second-answer-part-2.png)
+
+### Screenshot #3
 ![Screenshot of the second prompt](images/second-answer-part-3.png)
 
 # Histogram with Matplotlib
@@ -90,4 +95,5 @@ Here is the histogram showing the distribution of laptop prices. The x-axis repr
 
 ![Matplotlib Code](images/python-code-histogram.png)
 
+### Screenshot
 ![Screenshot of the prompt](images/last-answer.png)
