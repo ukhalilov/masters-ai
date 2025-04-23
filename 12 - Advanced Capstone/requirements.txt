@@ -1,0 +1,12 @@
+streamlit
+langchain==0.1.14
+langchain-community==0.0.33
+langchain-openai
+openai
+faiss-cpu
+pypdf
+sentence-transformers
+tiktoken
+huggingface_hub
+python-dotenv
+requests

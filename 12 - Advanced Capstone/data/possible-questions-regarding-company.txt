@@ -1,0 +1,6 @@
+"What is the phone number for your dealership?" -> AI provides (555) 123-4567
+"What is your email address?" -> AI provides support@pacificcoastlexus.com
+"What services does Pacific Coast Lexus offer?" -> AI lists Sales, Service, Parts.
+"Where are you located?" -> AI provides the address: 123 Luxury Drive, Oceanside, CA 92054.
+"What are your hours on Saturday?" -> AI states 9:00 AM - 5:00 PM.
+"What is the name of the dealership?" -> AI states Pacific Coast Lexus.
