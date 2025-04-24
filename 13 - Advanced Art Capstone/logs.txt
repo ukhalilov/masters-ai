@@ -1,0 +1,57 @@
+Help me to complete the task
+
+Task on Generative AI.
+
+Objective
+Design three covers for the media pieces. You goal is to create alternative variation of Thriller music album, 1984 book cover, and Titanic movie.
+	
+Requirements
+Images should be generated with ComfyUI without Flux.1 dev one-click in runpod.io.
+
+Final result should be a .md file containing:
+original work (covers for music album, book, and movie)
+AI-generated work (1 variation of music album, book, and movie)
+workflow:
+image generation model used (name, version, link)
+loras/adapters/extentions if any
+technical generation details: steps, CFG, sampler etc.
+screenshot of the pipeline or configuration
+prompt used
+resources used: webui for generation, hardware used
+
+Michael Jackson 1983 Thriller video, zombie makeup and glowing yellow eyes, iconic red leather jacket with black V-panels, torn sleeves, walking forward down a fog-filled midnight street, blue back-light halo, cinematic 35 mm film grain, gritty neon haze, dramatic low-angle shot, high-detail hyper-realism, horror–music-video style, album-cover composition, 8-K studio quality
+
+duplicate person, extra heads, extra limbs, two MJs, crowded background, gore, mutilation, disfigured hands, low-res, out-of-focus, motion blur, cartoon, pastel, text, watermark, logo
+
+
+book 	1024 × 1536
+(((1 9 8 4))), (((1 9 8 4))), “1984”, large bold crimson digits, centred,
+sleek modern CCTV surveillance camera in sharp focus above the title,
+distressed parchment background with faded sepia newsprint and soft coffee-stain rings,
+retro-meets-futurist book-cover aesthetic, portrait orientation, high-contrast,
+limited palette (deep red, charcoal, warm beige), 8-K print-ready sharpness
+
+1894, 1994, wrong numbers, duplicate digits, unreadable text, warped letters,
+extra text, pastel colours, neon rainbow, cartoon, anime, low-resolution,
+watermark, logo, motion blur, cluttered background
+
+
+
+width = 1024, height = 1536
+Jack and Rose, elegant Edwardian evening wear, slow-dancing together in the lavish first-class restaurant of the RMS Titanic, richly carved mahogany paneling, crystal chandeliers casting warm golden light, polished parquet floor, white-linen tables with silverware pushed aside, soft string-quartet ambience suggested by blurred musicians in background, gentle reflections on gleaming brass and glass, romantic 1912 atmosphere, 8-K hyper-realism, cinematic wide shot, portrait orientation
+
+
+text, title, watermark, duplicate couple, extra people crowding foreground, wrong era clothing, cartoon, pastel, neon, distorted faces, low-resolution, motion blur, logo, noisy background
+
+
+(((T I T A N I C))), (((T I T A N I C))), “TITANIC”, huge distressed block lettering centred at top,
+RMS Titanic bow-first sinking into icy black North Atlantic, stern rising high above churning waves,
+cold moonlight and emergency flares illuminating hull, lifeboats rowing away in foreground,
+jagged icebergs and storm clouds, cinematic high-drama night scene, 8-K hyper-realism,
+portrait-orientation movie poster, rich blue-teal palette with rust-orange firelight
+
+wrong title, TITONIC, TITAN, unreadable letters, duplicate text, cartoon, pastel, neon rainbow,
+extra ships, daytime, clear weather, low-resolution, motion blur, watermark, logo, text warp,
+crowded foreground, distorted perspective
+
+
